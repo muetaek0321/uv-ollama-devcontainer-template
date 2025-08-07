@@ -7,6 +7,5 @@ response: ChatResponse = chat(model='gpt-oss:20b', messages=[
     'content': 'ollamaとは何ですか？',
   },
 ])
-print(response['message']['content'])
-# or access fields directly from the response object
+
 print(response.message.content)
