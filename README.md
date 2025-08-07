@@ -14,4 +14,4 @@ uvを使用したPython環境+Ollama実行環境のdevcontainer
 
 
 ### 下記も併せてご参考ください
-[]()
+[https://fallpoke-tech.hatenadiary.jp/entry/2025/08/07/221538](https://fallpoke-tech.hatenadiary.jp/entry/2025/08/07/221538)
